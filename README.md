@@ -2,6 +2,8 @@
 
 This project demonstrates a real-time data streaming pipeline that ingests, processes, and stores user data generated via [RandomUser API](https://randomuser.me). The project uses tools like Airflow, Apache Kafka, Apache Spark, PostgreSQL, Cassandra, and more, for orchestrating tasks, streaming data, and storing it in various databases.
 
+![Realtime Data Streaming drawio](https://github.com/user-attachments/assets/4a723c5e-ba6a-4fb4-868d-9f148543f02f)
+
 ## Project Structure
 
 The project consists of the following main components:
